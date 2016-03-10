@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="hello_world">Calculadora</string>
+    <string name="place_holder01">Digite o valor e selecione uma operação</string>
+    <string name="somar">Adição(+)</string>
+    <string name="subtrair">Subtração(-)</string>
+    <string name="multiplicar">Multiplicação(*)</string>
+    <string name="dividir">Divisão(/)</string>
+    <string name="Button">CALCULAR</string>
+    <string name="resultado"></string>
+
+</resources>
